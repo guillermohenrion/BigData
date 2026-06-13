@@ -10,6 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, f1_score
 
 
+
 def main():
     # Cargar dataset
     iris = load_iris()
